@@ -1,0 +1,15 @@
+.card-wrapper{
+    display: flex;
+    padding: 1rem;
+}
+
+img{
+    min-width: 200px;
+    height: 200px;
+    margin: 1rem;
+}
+
+.card-text{
+    display: flex;
+    align-items: center;
+}
